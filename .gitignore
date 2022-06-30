@@ -1,4 +1,2 @@
-auth_info_multi.json
-baileys_store_multi.json
-host.sh
-git.sh
+node_modules
+package-lock.json
